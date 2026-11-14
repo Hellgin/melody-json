@@ -6,7 +6,7 @@
 
   <groupId>com.distantmelody</groupId>
   <artifactId>melody-json</artifactId>
-  <version>0.1.0</version>
+  <version>1.0.0</version>
 
   <name>melody-json</name>
   <description>JSON reader and writer. The class is com.distantmelody.library.json.J. The JDK is its only dependency.</description>

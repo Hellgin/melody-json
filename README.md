@@ -1,11 +1,11 @@
-# J
+# melody-json
 
-JSON reader and writer. Package `com.distantmelody.library.json`. The JDK is its only dependency.
+JSON reader and writer. The class is `com.distantmelody.library.json.J`. The JDK is its only dependency.
 
 ```xml
 <dependency>
   <groupId>com.distantmelody</groupId>
-  <artifactId>j</artifactId>
+  <artifactId>melody-json</artifactId>
   <version>0.1.0</version>
 </dependency>
 ```

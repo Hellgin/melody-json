@@ -5,12 +5,12 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.distantmelody</groupId>
-  <artifactId>j</artifactId>
+  <artifactId>melody-json</artifactId>
   <version>0.1.0</version>
 
-  <name>J</name>
-  <description>JSON reader and writer. The JDK is its only dependency.</description>
-  <url>https://github.com/Hellgin/j</url>
+  <name>melody-json</name>
+  <description>JSON reader and writer. The class is com.distantmelody.library.json.J. The JDK is its only dependency.</description>
+  <url>https://github.com/Hellgin/melody-json</url>
 
   <licenses>
     <license>
@@ -29,9 +29,9 @@
   </developers>
 
   <scm>
-    <connection>scm:git:https://github.com/Hellgin/j.git</connection>
-    <developerConnection>scm:git:git@github.com:Hellgin/j.git</developerConnection>
-    <url>https://github.com/Hellgin/j</url>
+    <connection>scm:git:https://github.com/Hellgin/melody-json.git</connection>
+    <developerConnection>scm:git:git@github.com:Hellgin/melody-json.git</developerConnection>
+    <url>https://github.com/Hellgin/melody-json</url>
   </scm>
 
   <properties>
